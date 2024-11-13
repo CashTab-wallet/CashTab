@@ -1,4 +1,4 @@
-# [CashTab](https://cashtab.cash/ "CashTab")
+# [CashTab](https://ecashtab.org/ "CashTab")
 The most popular web wallet for eCash
 
 
@@ -30,7 +30,7 @@ Cashtab is a non-custodial web wallet for eCash
 
 ## How to use Cashtab Web Wallet?
 Create/Import a Wallet
-#### 1. First go to the link — [CashTab Web Wallet](https://cashtab.cash/ "CashTab") using your web browser (Desktop/Mobile)
+#### 1. First go to the link — [CashTab Web Wallet](https://ecashtab.org/ "CashTab") using your web browser (Desktop/Mobile)
 #### 2. Create Wallet: Click the “New Wallet” if you want to create a new wallet
 (If you create a wallet, don’t forget to save your seed phrase. You can find seed phrase in the Wallet Setting)
 #### 3. Import Wallet: if you have an existing wallet
